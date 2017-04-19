@@ -8,6 +8,7 @@ namespace QueeFormApp
 {
     class Customer
     {
+        // It is  global scope
         private int serial;
         private string name;
         private string complain;
