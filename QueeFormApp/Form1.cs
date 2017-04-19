@@ -13,6 +13,7 @@ namespace QueeFormApp
 {
     public partial class Form1 : Form
     {
+		// just for test
         Queue<Customer> customers = new Queue<Customer>();
         public Form1()
         {
